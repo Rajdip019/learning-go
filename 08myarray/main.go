@@ -1,3 +1,5 @@
+//Array is the most less utilized Data Structure in golang!
+
 package main
 
 import "fmt"
